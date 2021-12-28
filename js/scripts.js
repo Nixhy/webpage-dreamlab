@@ -51,9 +51,9 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
 
-    // Activate SimpleLightbox plugin for portafolio items
+    // Activate SimpleLightbox plugin for portfolio items
     new SimpleLightbox({
-        elements: '#portafolio a.portafolio-box'
+        elements: '#portfolio a.portfolio-box'
     });
 
 });
